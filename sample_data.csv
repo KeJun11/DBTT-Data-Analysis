@@ -1,0 +1,86 @@
+Age_Range,Gender,Geographic_Area,Occupation,Skin_Type,Skin_Concerns,Latitude,Longitude
+18-22,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.360,103.812
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.358,103.815
+18-22,F,Central,Student,oily,"Hormonal Acne, Blackheads, Eye Bags",1.359,103.818
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.361,103.820
+18-22,F,Central,Student,oily,"Hormonal Acne, Rough Texture on Face",1.355,103.812
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.362,103.823
+18-22,F,Central,Student,oily,"Hormonal Acne, Large Pores on Face",1.357,103.811
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.354,103.817
+18-22,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.361,103.820
+18-22,M,Central,Student,oily,"Hormonal Acne, Blackheads, Eye Bags",1.359,103.816
+18-22,F,East,Student,oily,"Hormonal Acne, Eye Bags",1.353,103.935
+18-22,M,East,Student,oily,"Hormonal Acne, Eye Bags",1.357,103.942
+18-22,F,East,Student,oily,"Hormonal Acne, Eye Bags",1.360,103.947
+18-22,M,East,Student,oily,"Hormonal Acne, Rough Texture on Face",1.354,103.933
+18-22,F,East,Student,oily,"Hormonal Acne, Eye Bags",1.362,103.949
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.358,103.815
+18-22,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.356,103.812
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.360,103.819
+18-22,F,Central,Student,oily,"Hormonal Acne, Blackheads, Eye Bags",1.357,103.817
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.355,103.812
+18-22,F,North,Student,oily,"Hormonal Acne, Eye Bags",1.432,103.822
+18-22,M,North,Student,oily,"Hormonal Acne, Eye Bags",1.430,103.820
+18-22,F,North,Student,oily,"Hormonal Acne, Eye Bags",1.431,103.819
+18-22,M,South,Student,oily,"Hormonal Acne, Eye Bags",1.302,103.819
+18-22,F,South,Student,oily,"Hormonal Acne, Eye Bags",1.299,103.818
+18-22,M,South,Student,oily,"Hormonal Acne, Eye Bags",1.304,103.823
+18-22,F,South,Student,oily,"Hormonal Acne, Eye Bags",1.300,103.816
+18-22,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.362,103.823
+18-22,F,Central,Student,oily,"Hormonal Acne, Eye Bags, Blackheads",1.357,103.811
+23-27,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.359,103.818
+23-27,M,Central,Student,oily,"Hormonal Acne, Eye Bags, Rough Texture on Face",1.361,103.820
+23-27,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.356,103.815
+23-27,M,Central,Student,oily,"Hormonal Acne, Eye Bags, Large Pores on Face",1.360,103.819
+23-27,F,East,Student,oily,"Hormonal Acne, Eye Bags",1.357,103.942
+23-27,M,East,Student,oily,"Hormonal Acne, Eye Bags",1.360,103.947
+23-27,F,East,Student,oily,"Hormonal Acne, Blackheads, Eye Bags",1.354,103.933
+23-27,M,East,Student,oily,"Hormonal Acne, Eye Bags",1.362,103.949
+23-27,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.358,103.815
+23-27,M,Central,Student,oily,"Hormonal Acne, Eye Bags, Rough Texture on Face",1.361,103.820
+23-27,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.357,103.817
+23-27,M,North,Student,oily,"Hormonal Acne, Eye Bags",1.430,103.820
+23-27,F,North,Student,oily,"Hormonal Acne, Eye Bags",1.431,103.819
+23-27,M,North,Student,oily,"Hormonal Acne, Eye Bags",1.432,103.822
+23-27,F,South,Student,oily,"Hormonal Acne, Eye Bags",1.300,103.816
+23-27,M,South,Student,oily,"Hormonal Acne, Eye Bags",1.302,103.819
+23-27,F,South,Student,oily,"Hormonal Acne, Eye Bags",1.299,103.818
+23-27,M,Central,Student,oily,"Hormonal Acne, Eye Bags, Blackheads",1.360,103.823
+23-27,F,Central,Student,oily,"Hormonal Acne, Eye Bags",1.357,103.811
+23-27,M,Central,Student,oily,"Hormonal Acne, Eye Bags",1.358,103.815
+28-32,M,Central,Professional,dry,"Forehead Wrinkles, Dark Circles on Face",1.357,103.819
+28-32,F,Central,Professional,dry,"Under-eye Wrinkles, Dark Spots on Face",1.356,103.815
+28-32,M,Central,Professional,dry,"Dry Skin, Forehead Wrinkles",1.360,103.820
+28-32,F,East,Professional,dry,"Dark Spots on Face, Under-eye Wrinkles",1.357,103.942
+28-32,M,East,Professional,dry,"Forehead Wrinkles, Dry Skin",1.359,103.947
+28-32,F,East,Professional,dry,"Under-eye Wrinkles, Dark Circles",1.362,103.949
+28-32,M,North,Professional,dry,"Forehead Wrinkles, Dark Spots",1.431,103.819
+28-32,F,North,Professional,dry,"Dry Skin, Under-eye Wrinkles",1.432,103.822
+28-32,M,North,Professional,dry,"Forehead Wrinkles, Dark Circles",1.430,103.820
+28-32,F,South,Professional,dry,"Under-eye Wrinkles, Dry Skin",1.300,103.816
+28-32,M,South,Professional,dry,"Dark Spots on Face, Rough Texture on Face",1.302,103.819
+28-32,F,South,Professional,dry,"Forehead Wrinkles, Dark Circles",1.299,103.818
+28-32,M,Central,Professional,dry,"Dry Skin, Forehead Wrinkles",1.357,103.819
+28-32,F,Central,Professional,dry,"Under-eye Wrinkles, Dark Spots",1.356,103.815
+28-32,M,Central,Professional,dry,"Dry Skin, Dark Circles",1.360,103.820
+33-37,F,Central,Professional,dry,"Under-eye Wrinkles, Dull Skin",1.357,103.819
+33-37,M,Central,Professional,dry,"Forehead Wrinkles, Dry Skin",1.358,103.815
+33-37,F,East,Professional,dry,"Dark Spots on Face, Under-eye Wrinkles",1.357,103.942
+33-37,M,East,Professional,dry,"Forehead Wrinkles, Dry Skin",1.360,103.947
+33-37,F,North,Professional,dry,"Under-eye Wrinkles, Dull Skin",1.431,103.819
+33-37,M,North,Professional,dry,"Forehead Wrinkles, Dark Circles",1.430,103.820
+33-37,F,South,Professional,dry,"Dry Skin, Under-eye Wrinkles",1.300,103.816
+33-37,M,South,Professional,dry,"Dark Spots on Face, Rough Texture on Face",1.302,103.819
+33-37,F,Central,Professional,dry,"Under-eye Wrinkles, Dull Skin",1.357,103.819
+33-37,M,Central,Professional,dry,"Forehead Wrinkles, Dark Circles",1.358,103.815
+33-37,F,Central,Professional,dry,"Dry Skin, Under-eye Wrinkles",1.360,103.820
+>37,F,Central,Professional,dry,"Dark Spots on Face, Under-eye Wrinkles",1.357,103.819
+>37,M,Central,Professional,dry,"Forehead Wrinkles, Dry Skin",1.358,103.815
+>37,F,East,Professional,dry,"Under-eye Wrinkles, Dull Skin",1.357,103.942
+>37,M,East,Professional,dry,"Dark Spots on Face, Forehead Wrinkles",1.360,103.947
+>37,F,North,Professional,dry,"Under-eye Wrinkles, Dark Circles",1.431,103.819
+>37,M,North,Professional,dry,"Forehead Wrinkles, Dark Spots",1.430,103.820
+>37,F,South,Professional,dry,"Dry Skin, Under-eye Wrinkles",1.300,103.816
+>37,M,South,Professional,dry,"Dark Spots on Face, Rough Texture on Face",1.302,103.819
+>37,F,Central,Professional,dry,"Forehead Wrinkles, Under-eye Wrinkles",1.357,103.819
+>37,M,Central,Professional,dry,"Dark Spots on Face, Dry Skin",1.358,103.815
