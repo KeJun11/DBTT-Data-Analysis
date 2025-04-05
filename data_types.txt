@@ -1,0 +1,24 @@
+Customer Demographic
+---
+Age
+Gender
+Geographic Location
+Occupation/Income levels
+Skin type
+Skin concerns
+Skin preferences
+Customer segmentation / Status
+
+Transaction Revenue History
+---
+Product purchase count and revenue generated from each product / service
+Customer's frequency of purchase, amount spent
+Seasonal Trends, Revenue growth at different months and days
+
+Digital Engagement
+---
+Page views, bounce rate
+Session duration on the website
+Click through rates, conversion
+Sentiment analysis of reviews
+Customer survey response
